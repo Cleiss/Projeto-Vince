@@ -93,6 +93,7 @@ body {
 
 .botao:hover {
     background-color: #4b2c48;
+    letter-spacing: 1px;
 }
 
 .conteudo2 {
