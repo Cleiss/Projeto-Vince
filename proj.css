@@ -18,6 +18,7 @@
 body {
     background: linear-gradient(30deg, #9B505C 45%, #D67769 55%) ;
     font-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .cabecalho {
@@ -131,10 +132,6 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-    body {
-        height: 100vh;
-    }
-    
     .cabecalho {
         display: flex;
         flex-direction: row;
