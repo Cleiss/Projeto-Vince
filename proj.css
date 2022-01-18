@@ -132,6 +132,10 @@ body {
 }
 
 @media screen and (max-width: 600px) {
+    body {
+        heigth: 100vh;
+    }
+    
     .cabecalho {
         display: flex;
         flex-direction: row;
