@@ -131,7 +131,7 @@ body {
     color: #4b2c48;
 }
 
-@media screen and (max-width: 600px) {
+@media (max-width: 600px) {
     body {
         heigth: 100vh;
     }
